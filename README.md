@@ -2,9 +2,10 @@
 
 Choose **any city in the world**, a **date** and an **hour**, and get the predicted temperature. For each city, a Linear Regression model is trained on that city's own 3-year hourly history, then compared with Open-Meteo's official forecast.
 
-**🔗 Live app:** _<paste your Streamlit link here>_
+**🔗 Live app:** https://weather-prediction-hdikeshjusqzk23vkctvpg.streamlit.app/
 
-_<add 2 screenshots here: the Prediction tab and the Model accuracy tab>_
+![Prediction tab](screenshots/prediction.png)
+![Model accuracy tab](screenshots/accuracy.png)
 
 ## Features
 - 🔎 Search any city (Open-Meteo geocoding API)
