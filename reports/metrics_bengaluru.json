@@ -1,0 +1,56 @@
+[
+  {
+    "Lead time": "All (1h-7d)",
+    "Our model": 1.089,
+    "Climatology only": 1.397,
+    "Persistence (= now)": 2.556
+  },
+  {
+    "Lead time": "+1h",
+    "Our model": 0.557,
+    "Climatology only": 1.399,
+    "Persistence (= now)": 0.84
+  },
+  {
+    "Lead time": "+6h",
+    "Our model": 1.063,
+    "Climatology only": 1.389,
+    "Persistence (= now)": 3.953
+  },
+  {
+    "Lead time": "+12h",
+    "Our model": 1.206,
+    "Climatology only": 1.388,
+    "Persistence (= now)": 5.363
+  },
+  {
+    "Lead time": "+24h",
+    "Our model": 0.999,
+    "Climatology only": 1.39,
+    "Persistence (= now)": 0.993
+  },
+  {
+    "Lead time": "+48h",
+    "Our model": 1.146,
+    "Climatology only": 1.39,
+    "Persistence (= now)": 1.135
+  },
+  {
+    "Lead time": "+72h",
+    "Our model": 1.228,
+    "Climatology only": 1.392,
+    "Persistence (= now)": 1.228
+  },
+  {
+    "Lead time": "+120h",
+    "Our model": 1.314,
+    "Climatology only": 1.394,
+    "Persistence (= now)": 1.361
+  },
+  {
+    "Lead time": "+168h",
+    "Our model": 1.357,
+    "Climatology only": 1.393,
+    "Persistence (= now)": 1.48
+  }
+]
